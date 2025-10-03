@@ -14,6 +14,4 @@ public class SwapTwoVariable {
         System.out.println("X  = "+x+"\nY = "+y);
 
     }
-
-   
 }
